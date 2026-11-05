@@ -62,3 +62,4 @@ def thumbnail_visual_planner(prompt_description: str) -> str:
         f"Resolução recomendada: 1280x720 (16:9), cores saturadas com alto contraste, "
         f"elementos visuais centrais isolados para visualização clara em telas de celular."
     )
+

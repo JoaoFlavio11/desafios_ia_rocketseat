@@ -134,3 +134,4 @@ def generate_demo_output(query: str) -> str:
   > *Não se esqueça de deixar o seu LIKE se curtiu essa viagem no tempo e se inscreva no canal para não perder os próximos roteiros. Valeu, e até a próxima jogatina!"*
 * **[TELA]:** Card final com sugestão de vídeos anteriores e botão de inscrição pulsante.
 """
+

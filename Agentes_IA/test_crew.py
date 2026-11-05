@@ -82,3 +82,4 @@ def test_pipeline_execution():
     with open(output_path, "r", encoding="utf-8") as f:
         saved_content = f.read()
     assert len(saved_content) > 500
+

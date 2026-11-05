@@ -165,3 +165,4 @@ Conforme recomendado na resolução oficial do desafio da Rocketseat, o sistema 
 1. **Integração com APIs de Jogos (IGDB / Steam / Metacritic):** Obter dados atualizados em tempo real sobre notas, estatísticas de jogadores e trailers.
 2. **Geração e Edição Visual Automática:** Integração com APIs como Canva ou Bannerbear para sobrepor tipografia e criar o arquivo PNG pronto da thumbnail.
 3. **Loop de Feedback Contínuo (Human-in-the-Loop):** Interface interativa via Streamlit ou Gradio para o criador avaliar e aprovar o roteiro antes da exportação final.
+
