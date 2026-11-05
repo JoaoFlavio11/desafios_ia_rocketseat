@@ -59,3 +59,4 @@ def test_rerank_rag_answers():
     assert resp is not None
     assert len(resp) > 80
     assert "conselheiro" in resp.lower()
+

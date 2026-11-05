@@ -255,3 +255,4 @@ def answer_with_rerank_rag(question: str, pdf_path: str = "os-sertoes.pdf", inde
 
     # Fallback determinístico curado
     return CURATED_ANSWERS["rerank"][index_offset % len(CURATED_ANSWERS["rerank"])]
+
