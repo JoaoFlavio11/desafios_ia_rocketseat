@@ -375,3 +375,4 @@ test_main.py::test_criar_item_com_valor_invalido PASSED                  [100%]
 
 ========================= 5 passed in 0.36s =========================
 ```
+

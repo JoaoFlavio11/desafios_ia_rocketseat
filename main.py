@@ -67,3 +67,4 @@ def health_check():
         "status": "online",
         "message": "Desafio Prompt Engineering FastAPI endpoint está rodando com sucesso!",
     }
+

@@ -66,3 +66,4 @@ def test_criar_item_com_valor_invalido():
     }
     response = client.post("/items/", json=payload)
     assert response.status_code == 422
+
