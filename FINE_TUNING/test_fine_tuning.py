@@ -97,3 +97,4 @@ def test_evaluation_on_test_dataset():
     assert metrics["accuracy"] >= 0.90
     assert metrics["metrics_by_class"]["venda"]["precision"] > 0.85
     assert metrics["metrics_by_class"]["suporte"]["precision"] > 0.85
+
